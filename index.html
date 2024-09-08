@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="music-player">
+        <div class="current-song">
+            <img id="album-cover" src="C:/Users/GOWSHIKA D/Downloads/placeholder.jpg" alt="Album Cover">
+            <p id="song-title">Select a song</p>
+        </div>
+        <input type="range" id="progress-bar" min="0" value="0">
+        <button id="play-pause-btn">Play</button>
+        <button id="next-btn">Next</button>
+        <button id="prev-btn">Previous</button>
+        <input type="range" id="volume-control" min="0" max="100" value="50">
+    </div>
+    <audio id="audio-player" src=""></audio>
+    <script src="script.js"></script>
+</body>
+</html>
