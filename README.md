@@ -32,7 +32,7 @@ song name :
   
 ## Demo
 
-![Music Player Screenshot]"demo.mp4"
+![Music Player Screenshot]"image.png"
 
 ## Project Structure
 ## How to Use
