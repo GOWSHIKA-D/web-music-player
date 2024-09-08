@@ -32,7 +32,7 @@ song name :
   
 ## Demo
 
-![Music Player Screenshot](images/cover1.jpg)
+![Music Player Screenshot]"C:\Users\GOWSHIKA D\Downloads\demo.mp4"
 
 ## Project Structure
 ## How to Use
